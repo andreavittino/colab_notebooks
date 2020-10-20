@@ -11,3 +11,5 @@ Here are a few notebooks that I write as I am studying several topics in machine
 - [RNN_ImageClass_fashionMNIST](https://github.com/andreavittino/colab_notebooks/blob/main/RNN_ImageClass_fashionMNIST.ipynb) : Image classification (of the fashion MNIST dataset) performed with a recurrent neural network (LSTM)
 
 - [RNN_SpamDetection](https://github.com/andreavittino/colab_notebooks/blob/main/RNN_SpamDetection.ipynb): e-mail classification (ham vs. spam) with a recurrent neural network (LSTM)
+
+-[IMDB_sentiment_analysis](https://github.com/andreavittino/colab_notebooks/blob/main/IMDB_sentiment_analysis.ipynb) : sentiment analysis on IMDB movie review using different network architectures (fully connected layers, 1D CNN) and different data preprocessing techniques (one-hot encoding vs embedding)
